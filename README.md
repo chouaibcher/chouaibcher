@@ -1,6 +1,8 @@
 ### Hi there 👋
  MDEwMDEwMDAgMDExMDAxMDEgMDExMDExMDAgMDExMDExMDAgMDExMDExMTEgMDAxMDAwMDAgMDExMDAxMDAgMDExMDAwMDEgMDExMTAwMTAgMDExMDEwMTEgMDExMDExMTAgMDExMDAxMDEgMDExMTAwMTEgMDExMTAwMTEgMDAxMDAwMDAgMDExMDExMDEgMDExMTEwMDEgMDAxMDAwMDAgMDExMDExMTEgMDExMDExMDAgMDExMDAxMDAgMDAxMDAwMDAgMDExMDAxMTAgMDExMTAwMTAgMDExMDEwMDEgMDExMDAxMDEgMDExMDExMTAgMDExMDAxMDAg
 
+![](https://komarev.com/ghpvc/?chouaibcher&color=brightgreen)
+
 <!--
 **chouaibcher/chouaibcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
