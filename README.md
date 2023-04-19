@@ -1,7 +1,7 @@
 ### Hi there 👋
  MDEwMDEwMDAgMDExMDAxMDEgMDExMDExMDAgMDExMDExMDAgMDExMDExMTEgMDAxMDAwMDAgMDExMDAxMDAgMDExMDAwMDEgMDExMTAwMTAgMDExMDEwMTEgMDExMDExMTAgMDExMDAxMDEgMDExMTAwMTEgMDExMTAwMTEgMDAxMDAwMDAgMDExMDExMDEgMDExMTEwMDEgMDAxMDAwMDAgMDExMDExMTEgMDExMDExMDAgMDExMDAxMDAgMDAxMDAwMDAgMDExMDAxMTAgMDExMTAwMTAgMDExMDEwMDEgMDExMDAxMDEgMDExMDExMTAgMDExMDAxMDAg
 
-![](https://komarev.com/ghpvc/?username=chouaibcher&color=green)
+![](https://komarev.com/ghpvc/?username=chouaibcher&color=grey)
 
 <!--
 **chouaibcher/chouaibcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
