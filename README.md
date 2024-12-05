@@ -1,6 +1,12 @@
+#Chou@ibCher+
+
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=chouaibcher&color=grey)
+
+Who knows?
+![image](https://github.com/user-attachments/assets/9b7b9429-8e52-4c3e-84a1-89e480a7a2ba)
+![Designer](https://github.com/user-attachments/assets/f7a118f7-4610-49a4-8e76-e7e954b66bb2)
 
 <!--
 **chouaibcher/chouaibcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Designer](https://github.com/user-attachments/assets/db57befd-4370-4e89-840b-d60152c9ebf0)
