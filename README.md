@@ -5,7 +5,7 @@ sudo do_it.sh
 </br>
 > Start where you are. Use what you have. Do what you can :)
 
-classifer.predict(ur_future)
+classifier.predict(ur_future)
 -> output : shining (1)
 
 ![](https://komarev.com/ghpvc/?username=chouaibcher&color=grey)
